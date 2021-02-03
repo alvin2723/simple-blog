@@ -11,7 +11,7 @@
 
 This project using Laravel, there some config :
 
--   [Authentication for Admin and Guest using Spatie](https://spatie.be/).
+-   [Authentication for Admin and Guest using Spatie Role Extensions](https://spatie.be/).
 -   [Database inside the project name : simple_blog.sql]
 -   [UI Website Blog using boostrap]
 -   [There is CRUD (Create, Read, Update, Delete) Function in Admin Role, and for Guest Role only View Blog]
